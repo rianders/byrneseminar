@@ -12,8 +12,8 @@ PlayerSettings:
   targetDevice: 2
   useOnDemandResources: 0
   accelerometerFrequency: 60
-  companyName: Rutgers University GRID
-  productName: ArborTrail Adventure
+  companyName: Byrne Seminar Rutgers University
+  productName: ByrneARTemplate
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -81,6 +81,7 @@ PlayerSettings:
   usePlayerLog: 1
   bakeCollisionMeshes: 0
   forceSingleInstance: 0
+  useFlipModelSwapchain: 1
   resizableWindow: 0
   useMacAppStoreValidation: 0
   macAppStoreCategory: public.app-category.games
@@ -848,11 +849,11 @@ PlayerSettings:
       daydreamIconForeground: {fileID: 0}
       daydreamIconBackground: {fileID: 0}
   cloudServicesEnabled:
-    Build: 1
-    Collab: 1
+    Build: 0
+    Collab: 0
     ErrorHub: 0
     Hub: 0
-    UNet: 1
+    UNet: 0
   luminIcon:
     m_Name: 
     m_ModelFolderPath: 
@@ -872,9 +873,9 @@ PlayerSettings:
   facebookXfbml: 0
   facebookFrictionlessRequests: 1
   apiCompatibilityLevel: 6
-  cloudProjectId: a18f9c8e-91d7-4f60-a0c2-a42aa52d5b94
+  cloudProjectId: 4c1591cc-745e-44aa-b4e6-72f91434aff0
   framebufferDepthMemorylessMode: 0
-  projectName: ArborTrail GRID
+  projectName: ByrneARTemplate (1)
   organizationId: rutgers-university-grid
   cloudEnabled: 0
   enableNativePlatformBackendsForNewInputSystem: 0
