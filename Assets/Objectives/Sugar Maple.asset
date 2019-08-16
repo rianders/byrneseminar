@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 73c223e4056c81b4b9e843c6364486cf, type: 3}
+  m_Name: Sugar Maple
+  m_EditorClassIdentifier: 
+  objName: Sugar Maple
+  sciName: Acer saccharum
+  assetNumber: 5
+  blackwhitesketch: {fileID: 21300000, guid: 4a17e226f551f8f40ab35aa112844321, type: 3}
+  artwork: {fileID: 21300000, guid: 3a8ab288e0fe404489c9ea9eb3bde9f6, type: 3}
+  collected: 0
+  visited: 0
+  fact: 'This native tree is an important part of North America''s ecosystems and
+    the economy. It''s leaf is the national emblem of Canada. '
+  quizquestion: This tree can be tapped to harvest and process it's sap, which makes
+    __!
+  choices:
+  - root beer
+  - rubber
+  - syrup
+  answer: This tree can be tapped to harvest and process it's sap, which makes syrup!
+    While the ingredients to make root beer and rubber do come from trees, the sap
+    of this tree has long been used to make maple syrup and maple sugar!
+  points: 0

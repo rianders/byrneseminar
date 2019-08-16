@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="bamboo" size="1.000000 1.562438" />
+    <ImageTarget name="apple_tree" size="1.000000 1.028608" />
+    <ImageTarget name="black_walnut" size="1.000000 1.402182" />
+    <ImageTarget name="black_locust_beans" size="1.000000 1.094862" />
+    <ImageTarget name="deer" size="1.000000 1.633898" />
+    <ImageTarget name="english_yew" size="1.000000 1.528423" />
+    <ImageTarget name="lace_bark_pine" size="1.000000 1.107533" />
+    <ImageTarget name="sugar_maple" size="1.000000 1.262227" />
+    <ImageTarget name="swamp_white_oak" size="1.000000 1.190349" />
+    <ImageTarget name="white_snake_root" size="1.000000 0.851345" />
+    <ImageTarget name="linden_leaf" size="1.000000 1.294118" />
+    <ImageTarget name="wineberry" size="1.000000 1.089365" />
+    <ImageTarget name="white_wood_aster" size="1.000000 1.736742" />
+    <ImageTarget name="squirrel" size="1.000000 0.854513" />
+    <ImageTarget name="rabbit" size="1.000000 1.778302" />
+    <ImageTarget name="poison-ivy" size="1.000000 0.935106" />
+    <ImageTarget name="norway_maple" size="1.000000 1.036676" />
+    <ImageTarget name="frog" size="1.000000 0.500484" />
+    <ImageTarget name="flowering_dogwood" size="1.000000 1.017832" />
+  </Tracking>
+</QCARConfig>

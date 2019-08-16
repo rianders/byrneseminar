@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 73c223e4056c81b4b9e843c6364486cf, type: 3}
+  m_Name: English Yew
+  m_EditorClassIdentifier: 
+  objName: English Yew
+  sciName: Taxus baccata
+  assetNumber: 14
+  blackwhitesketch: {fileID: 21300000, guid: 393b7db0dd44b944ab922be396e1501b, type: 3}
+  artwork: {fileID: 21300000, guid: bb6247475f7953740aa46d4b9f26ba61, type: 3}
+  collected: 0
+  visited: 0
+  fact: The English Yew is a horticultural favorite. It is evergreen and easy to prune
+    into different shapes. Most parts of this tree are poisonous, however, the chemical
+    taxol was found in this genus and is currently used to treat cancer as an antitumoral
+    drug!
+  quizquestion: 'When a bird eats the berry-like fruit, __. '
+  choices:
+  - the bird gets sick
+  - the seed is useless
+  - the seed remains intact
+  - the bird becomes immune to cancer
+  answer: When a bird eats the berry-like fruit, the seed remains intact. Although
+    the seeds are poisonous, the flesh of the fruit is not, so birds spread the seeds
+    by eating the fruit and excreting them in their waste.
+  points: 0

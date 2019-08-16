@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 73c223e4056c81b4b9e843c6364486cf, type: 3}
+  m_Name: Black Walnut
+  m_EditorClassIdentifier: 
+  objName: Black Walnut
+  sciName: Juglans nigra
+  assetNumber: 18
+  blackwhitesketch: {fileID: 21300000, guid: 2a2e7c58f30068742ae368892372ac94, type: 3}
+  artwork: {fileID: 21300000, guid: 73f750db7765bd44db00172ffa485cc5, type: 3}
+  collected: 0
+  visited: 0
+  fact: These trees can be characterized by their dark, gray-black bark and odd-pinnate
+    compound leaves with oblong leaflets. The female trees produce fruits with a citrus
+    odor; once they fall off, they turn black and can be used to make a black ink.
+  quizquestion: 'The ___ is the edible part of the walnut tree. '
+  choices:
+  - leaves
+  - bark
+  - nut
+  - roots
+  answer: 'The nut is the edible part of the walnut tree. '
+  points: 0

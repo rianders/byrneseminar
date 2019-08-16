@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 73c223e4056c81b4b9e843c6364486cf, type: 3}
+  m_Name: Wineberry
+  m_EditorClassIdentifier: 
+  objName: Wineberry
+  sciName: Rubus phoenicolasius
+  assetNumber: 1
+  blackwhitesketch: {fileID: 21300000, guid: c83fc5b4fc8e81145804aa460c1b23c0, type: 3}
+  artwork: {fileID: 21300000, guid: f93a7e7a8f30a58468ebb84bf5d8aff1, type: 3}
+  collected: 0
+  visited: 0
+  fact: This shrub is covered in small, red hairs and needles. White flowers bloom
+    in spring and become red, rasberry-like fruit in June and July. This fruit is
+    edible, but you might get poked by the needles if you try to pick them!
+  quizquestion: This invasive shrub has __ branches with __.
+  choices:
+  - blue, thorns
+  - red, needles
+  - purple, tiny leaves
+  - red, stripes
+  answer: This invasive shrub has red branches with needles.  Be careful when touching
+    this plant. It has spikes and needles all over. However, the berries are delicious!
+    It is in the Rose family with other berries like raspberry and blackberry.
+  points: 0

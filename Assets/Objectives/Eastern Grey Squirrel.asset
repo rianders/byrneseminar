@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 73c223e4056c81b4b9e843c6364486cf, type: 3}
+  m_Name: Eastern Grey Squirrel
+  m_EditorClassIdentifier: 
+  objName: Eastern Grey Squirrel
+  sciName: Sciurus carolinensis
+  assetNumber: 6
+  blackwhitesketch: {fileID: 21300000, guid: 45cb9824c7a77504e95683611393ac59, type: 3}
+  artwork: {fileID: 21300000, guid: 6798b0c8d736c174795a1b0341d20d46, type: 3}
+  collected: 0
+  visited: 0
+  fact: This critter can be easily identified by its bushy tail that is bordered with
+    white hairs. The diet of this squirrel consists of nuts, acorns and seeds.
+  quizquestion: Its __ is vital for its daily life. It helps maintain balance when
+    travelling in trees.
+  choices:
+  - teeth
+  - fur
+  - sharp nails
+  - tail
+  answer: 'Its tail is vital for its daily life. It helps maintain balance when travelling
+    in trees.  The eastern grey squirrel''s tail helps it keep balance so it can stay
+    in trees and quickly travel from tree to tree. '
+  points: 0

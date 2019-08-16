@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 73c223e4056c81b4b9e843c6364486cf, type: 3}
+  m_Name: Lace Bark Pine
+  m_EditorClassIdentifier: 
+  objName: Lace Bark Pine
+  sciName: Pinus bungeana
+  assetNumber: 12
+  blackwhitesketch: {fileID: 21300000, guid: 9724c030a3acbed40a61c71085ed0e13, type: 3}
+  artwork: {fileID: 21300000, guid: de9c500753bf23247a4b173f2543215c, type: 3}
+  collected: 0
+  visited: 0
+  fact: 'This species was originally planted, for the first time in the U.S., along
+    this trail. It can be identified by its exfoliating bark that peels to reveal
+    a patchwork of colours such as white, olive, light purple and silver. '
+  quizquestion: This tree is called Lacebark Pine because of the pattern of the __.
+  choices:
+  - light through the canopy
+  - interlacing branches
+  - bark
+  answer: It is called Lace Bark Pine because of the pattern of the exfoliating bark.
+  points: 0

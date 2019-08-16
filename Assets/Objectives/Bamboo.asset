@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 73c223e4056c81b4b9e843c6364486cf, type: 3}
+  m_Name: Bamboo
+  m_EditorClassIdentifier: 
+  objName: Bamboo
+  sciName: Bambusoideae
+  assetNumber: 19
+  blackwhitesketch: {fileID: 21300000, guid: 463ee6c5026fbec40b3fd34a21970ba4, type: 3}
+  artwork: {fileID: 21300000, guid: 95a1db1302c48e942bc980c6fd129057, type: 3}
+  collected: 0
+  visited: 0
+  fact: Due to the large number of species, bamboo has its own subfamily, but is also
+    placed in the grass family, Poaceae. It is an important food source for the animals
+    in its native range.
+  quizquestion: All bamboo plants in a patch are connected by their __.
+  choices:
+  - leaves
+  - stems
+  - flowers
+  - roots
+  answer: All bamboo plants in a patch are connected by their roots, similar to a
+    few other invasives or prolific plants.
+  points: 0

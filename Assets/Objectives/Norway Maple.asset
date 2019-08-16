@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 73c223e4056c81b4b9e843c6364486cf, type: 3}
+  m_Name: Norway Maple
+  m_EditorClassIdentifier: 
+  objName: Norway Maple
+  sciName: Acer platanoides
+  assetNumber: 9
+  blackwhitesketch: {fileID: 21300000, guid: b9cafb81aee067746bb1e36dec4a4d3b, type: 3}
+  artwork: {fileID: 21300000, guid: e7303f3726986844f8485071fd1ad024, type: 3}
+  collected: 0
+  visited: 0
+  fact: This invasive deciduous tree has been introduced throughout North America
+    as a street tree. It has a high tolerance for urban areas and provides a lot of
+    shade.
+  quizquestion: Norway Maples have been decreasing biodiversity due to the amount
+    of shade they produce and __
+  choices:
+  - their poisonous seeds
+  - the chemicals they release in the soil
+  - their shallow root systems
+  answer: Norway Maples have been decreasing biodiversity due to the amount of shade
+    they produce and their shallow root systems. It is possible that they release
+    chemicals in the soil discouraging growth of other species, but this has not been
+    proven. Shallow roots make it difficult for other plants to take root.
+  points: 0
