@@ -2840,7 +2840,7 @@ PrefabInstance:
     - target: {fileID: 3016722307392382023, guid: 71ff8bd8fabb6d54eb0564098959bd76,
         type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 8919913326009442885, guid: 71ff8bd8fabb6d54eb0564098959bd76,
         type: 3}
@@ -3472,6 +3472,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_AnchoredPosition.y
       value: 21.900024
+      objectReference: {fileID: 0}
+    - target: {fileID: 3424088080476856769, guid: 71ff8bd8fabb6d54eb0564098959bd76,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -55.7
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 71ff8bd8fabb6d54eb0564098959bd76, type: 3}
@@ -10523,7 +10528,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &1574115598
 RectTransform:
   m_ObjectHideFlags: 0
@@ -23966,6 +23971,11 @@ PrefabInstance:
       propertyPath: m_textInfo.pageCount
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 114719874068490394, guid: 12bfd4748c7390a4ebdb99bea161efb5,
+        type: 3}
+      propertyPath: scenename
+      value: Scanner
+      objectReference: {fileID: 0}
     - target: {fileID: 114684506117197236, guid: 12bfd4748c7390a4ebdb99bea161efb5,
         type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.size
@@ -24020,11 +24030,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_StringArgument
       value: Walkthrough
-      objectReference: {fileID: 0}
-    - target: {fileID: 114719874068490394, guid: 12bfd4748c7390a4ebdb99bea161efb5,
-        type: 3}
-      propertyPath: scenename
-      value: Scanner
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 12bfd4748c7390a4ebdb99bea161efb5, type: 3}
